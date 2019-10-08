@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LoginSystem</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE ALL</string>
+    <string-array name="types">
+        <item>BOOLEAN</item>
+        <item>STRING</item>
+        <item>INTEGER</item>
+    </string-array>
 </resources>
